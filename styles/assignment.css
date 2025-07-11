@@ -48,5 +48,19 @@ nav ul{
     background: #2a29cc;
 }
 
-
+/* hero styles */
+.hero{
+    margin: 267px 237px;
+    text-align: center;
+}
+.hero h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.hero h2{
+    font-size: 65px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
 
